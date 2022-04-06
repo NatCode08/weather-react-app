@@ -13,7 +13,7 @@ function App() {
         <a
           href="https://github.com/NatCode08/weather-react-app"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           Open-source
         </a>
