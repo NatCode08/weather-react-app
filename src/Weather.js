@@ -16,16 +16,6 @@ export default function Weather() {
         <br />
         Wind 3 km/h
       </div>
-      <br />
-      <br />
-      <a
-        href="https://github.com/NatCode08/weather-react-app"
-        target="_blank"
-        rel="noreferrer"
-      >
-        Open-source code
-      </a>
-      <span> by Natalia Ortiz</span>
     </div>
   );
 }
